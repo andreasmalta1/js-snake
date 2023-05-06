@@ -1,3 +1,7 @@
+body{
+    overflow: hidden;
+}
+
 #gameContainer{
     text-align: center;
 }
